@@ -19,6 +19,8 @@ Journal Papers
   {% endif %}
 {% endfor %}
 
+<br/>
+
 Conference Papers
 ---
 {% for post in site.publications reversed %}
@@ -27,6 +29,8 @@ Conference Papers
   {% endif %}
 {% endfor %}
 
+<br/>
+
 Patents
 ---
 {% for post in site.publications reversed %}
@@ -34,6 +38,8 @@ Patents
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
+
+<br/>
 
 PhD Thesis
 ---
