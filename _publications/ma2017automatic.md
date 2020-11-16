@@ -21,6 +21,47 @@ Layer separation; Online robust PCA; Vessel enhancement; X-ray angiograms
 
 [Download paper here](https://huamia.github.io/files/papers/media2017automatic.pdf)
 
+### Demo videos of online layer separation for an X-ray angiogram
+
+<style>
+.fig_div {
+  width: 25%;
+  padding: 3px;
+}
+figcaption {
+  text-align: center;
+  width: 100%;
+}
+</style>
+
+<div style="display: flex">
+  <div class="fig_div">
+    <figure>
+      <img src="/images/layer_sep/orig_40.gif">
+      <figcaption>X-ray Angiogram</figcaption>
+    </figure>
+  </div>
+  <div class="fig_div">
+    <figure>
+      <img src="/images/layer_sep/breath_40.gif">
+      <figcaption>Breathing Layer</figcaption>
+    </figure>
+  </div>
+  <div class="fig_div">
+    <figure>
+      <img src="/images/layer_sep/static_40.gif">
+      <figcaption>Quasi-static Layer</figcaption>
+    </figure>
+  </div>
+  <div class="fig_div">
+    <figure>
+      <img src="/images/layer_sep/vessel_40.gif">
+      <figcaption>Vessel Layer</figcaption>
+    </figure>
+  </div>
+</div>
+
+
 **Recommended citation**
 
 <pre>

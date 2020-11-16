@@ -21,6 +21,11 @@ Dynamic coronary roadmapping, X-ray fluoroscopy, Catheter tip tracking, Deep lea
 
 [Download paper here](https://arxiv.org/pdf/2001.03801.pdf)
 
+### Demo video of dynamic coronary roadmapping
+
+![DCR demo](/images/dcr/dcr.gif)
+
+
 **Recommended citation**
 
 <pre>
