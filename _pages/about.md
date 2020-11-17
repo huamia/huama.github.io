@@ -10,6 +10,8 @@ redirect_from:
 
 I'm currently a deep learning research engineer at [Medis Medical Imaging Systems](https://medisimaging.com/), focusing on developing algorithmic solutions for cardiovascular image analysis. I obtained a PhD in Medical Image Analysis at Erasmus MC (University Medical Center Rotterdam) in [Biomedical Imaging Group Rotterdam](http://bigr.nl/) headed by Prof. Wiro Niessen. My PhD project aims to develop smart image guidance technologies for percutaneous coronary interventions, a kind of minimally invasive procedure for treating coronary artery diesease. During my PhD, I have been focusing on novel methods in medical imaging, computer vision and machine learning, and integrating them for innovative solutions for clinical problems in the workflow of cardiac interventions. My research interests include techniques of computer vision, machine learning and deep learning for medical imaging problems.
 
+<br/>
+
 Education
 ======
 * B.S. in Biological Sciences, Sun Yat-Sen University, 2009
@@ -17,6 +19,18 @@ Education
   * Master thesis supervised by [Prof. Orcun Goksel](https://people.ee.ethz.ch/~ogoksel/)
 * Ph.D in Computer Science (Medical Image Analysis), Erasmus University Rotterdam, 2020
   * Supervised by [Dr. Theo van Walsum](http://bigr.nl/people/TheovanWalsum/) and [Prof. Wiro Niessen](http://bigr.nl/people/WiroNiessen/)
+
+<br/>
+
+Featured Publications
+======
+{% for post in site.publications reversed %}
+  {% if post.ga %}
+    {% include archive-single-featured-pub.html %}
+  {% endif %}
+{% endfor %}
+
+
 
 <!-- 
 A data-driven personal website

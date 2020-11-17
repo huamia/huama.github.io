@@ -2,10 +2,11 @@
 title: "Automatic Online Layer Separation for Vessel Enhancement in X-ray Angiograms for Percutaneous Coronary Interventions"
 collection: publications
 permalink: /publication/ma2017automatic
-excerpt: '**Hua Ma**, Ayla Hoogendoorn, Evelyn Regar, Wiro J. Niessen, Theo van Walsum'
+excerpt: <b>Hua Ma</b>, Ayla Hoogendoorn, Evelyn Regar, Wiro J. Niessen, Theo van Walsum
 date: 2017-07-01
 pubtype: "journal"
 venue: 'Medical Image Analysis'
+ga: /images/ga/layer_sep.png
 # paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 # citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---

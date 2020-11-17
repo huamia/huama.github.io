@@ -2,10 +2,11 @@
 title: "PCA-derived Respiratory Motion Surrogates from X-ray Angiograms for Percutaneous Coronary Interventions"
 collection: publications
 permalink: /publication/ma2015pca
-excerpt: '**Hua Ma**, Gerardo Dibildox, Carl Schultz, Evelyn Regar, Theo van Walsum'
+excerpt: <b>Hua Ma</b>, Gerardo Dibildox, Carl Schultz, Evelyn Regar, Theo van Walsum
 date: 2015-04-07
 pubtype: "journal"
 venue: 'International Journal of Computer Assisted Radiology and Surgery'
+ga: /images/ga/surrogates.png
 # paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---

@@ -2,10 +2,11 @@
 title: "Dynamic Coronary Roadmapping via Catheter Tip Tracking in X-ray Fluoroscopy with Deep Learning based Bayesian Filtering"
 collection: publications
 permalink: /publication/ma2020dynamic
-excerpt: '**Hua Ma**, Ihor Smal, Joost Daemen, Theo van Walsum'
+excerpt: <b>Hua Ma</b>, Ihor Smal, Joost Daemen, Theo van Walsum
 date: 2020-04-01
 pubtype: "journal"
 venue: 'Medical Image Analysis'
+ga: /images/ga/dcr.png
 # paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---

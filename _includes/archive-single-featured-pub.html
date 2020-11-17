@@ -1,0 +1,16 @@
+{% include base_path %}
+
+<div style="display: flex;">
+  <div style="width:30%;">
+    <figure>
+      <img src="{{ post.ga }}">
+    </figure>
+  </div>
+  <div style="width: 70%; padding-left: 30px; padding-top: 30px; display: vertical">
+    <p style="font-size:90%;font-weight:bold">
+      <a href="{{ post.permalink }}">{{ post.title }}</a>
+    </p>
+    <p style="font-size:80%;">{{ post.excerpt }}</p>
+    <p style="font-style:italic;font-size:80%">{{ post.venue }}, {{ post.date | date: "%Y" }}</p>
+  </div>
+</div>
